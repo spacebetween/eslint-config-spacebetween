@@ -1,6 +1,6 @@
 # Standard - ESLint Space Between Config
 
-#### An ESLint Config for [Space Between(http://spacebetween.io) style.
+#### An ESLint Config for [Space Between](http://spacebetween.io) style.
 
 Thanks to [Feross Aboukhadijeh](http://feross.org) and [eslint-config-standard](https://github.com/feross/eslint-config-standard)
 
