@@ -1,1 +1,29 @@
+#################
+## OS
+#################
+
+# Windows
+**/Thumbs.db
+**/Desktop.ini
+
+# Other OS
+**/.DS_Store
+**/.Spotlight-V100
+**/.Trashes
+**/*.orig
+
+#################
+## Node.js
+#################
+
 node_modules
+**/npm-debug.log
+
+#################
+## IDE
+#################
+
+# Common IDE files
+.idea
+.tm_properties
+.vscode
