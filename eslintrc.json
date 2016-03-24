@@ -1,6 +1,6 @@
 {
   "globals": {
-    "angular": true,
+    "angular": true
   },
   "env": {
     "node": true,
