@@ -136,6 +136,7 @@
     "space-before-blocks": [2, "always"],
     "space-before-function-paren": [2, "always"],
     "space-infix-ops": 2,
+    "space-in-parens": ["error", "never"],
     "space-unary-ops": [2, { "words": true, "nonwords": false }],
     "strict": [2, "safe"],
     "use-isnan": 2,
