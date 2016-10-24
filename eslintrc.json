@@ -9,7 +9,7 @@
     "browser": true,
     "jasmine": true,
     "jquery": true,
-	"es6": true
+    "es6": true
   },
   "plugins": [],
   "ecmaFeatures": {
