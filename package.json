@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-spacebetween",
   "description": "JavaScript Space Between - ESLint Shareable Config",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "author": {
     "name": "Space Between",
     "email": "hello@spacebetween.io",
